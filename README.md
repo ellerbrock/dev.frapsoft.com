@@ -1,5 +1,7 @@
 # Victor Hugo
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/ellerbrock/dev.frapsoft.com.svg)](https://greenkeeper.io/)
+
 **A Hugo boilerplate for creating truly epic websites**
 
 This is a boilerplate for using [Hugo](https://gohugo.io/) as a static site generator and [Gulp](https://gulpjs.com/) + [Webpack](https://webpack.js.org/) as your asset pipeline.
